@@ -10,8 +10,8 @@ The main goals of the system include:
 - Monitoring the distribution routes between warehouses
 - Ensuring accurate inventory tracking across all store locations
 
-The system must support efficient planning and coordination of deliveries among the following cities:
-Arouca, Espinho, Gondomar, Maia, Matosinhos, Oliveira de Azeméis, Paredes, Porto, Póvoa do Varzim, Santa Maria da Feira, Santo Tirso, São João da Madeira, Trofa, Vale de Cambra, Valongo, Vila do Conde, and Vila Nova de Gaia.
+The system must support efficient planning and coordination of deliveries between the company's various store locations and their respective warehouses.
+
 
 ---
 
@@ -21,5 +21,5 @@ The following diagram illustrates the main entities and relationships within the
 
 
 
-![Diagrama de Domínio](docs/dm/MD2.jpg)
+![Diagrama de Domínio](docs/Dm/MD2.jpg)
 
