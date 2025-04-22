@@ -21,5 +21,5 @@ The following diagram illustrates the main entities and relationships within the
 
 
 
-![Diagrama de Domínio](docs/Dm/MD2.jpg)
+![Diagrama de Domínio](Docs/Dm/MD2.jpg)
 
